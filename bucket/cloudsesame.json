@@ -1,12 +1,12 @@
 {
-    "version": "0.3.0",
+    "version": "0.4.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/NexiHealth/cloudsesame/releases/download/v0.3.0/cloudsesame_0.3.0_windows_amd64.zip",
+            "url": "https://github.com/NexiHealth/cloudsesame/releases/download/v0.4.0/cloudsesame_0.4.0_windows_amd64.zip",
             "bin": [
                 "cloudsesame.exe"
             ],
-            "hash": "2202313a485a6d18b89f4772cade04036fb163b440084260a1ddfd7f6c1ac0be"
+            "hash": "2d1381530f520435af6ccadbc07eabaada9311f8253a26120c06b562603d5cf8"
         }
     },
     "homepage": "https://github.com/NexiHealth/cloudsesame",
